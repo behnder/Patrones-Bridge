@@ -1,0 +1,14 @@
+E:\unity\quark\Patrones\Patrones-Bridge\Patrones-Bridge\bin\Debug\netcoreapp3.1\Patrones-Bridge.exe
+E:\unity\quark\Patrones\Patrones-Bridge\Patrones-Bridge\bin\Debug\netcoreapp3.1\Patrones-Bridge.deps.json
+E:\unity\quark\Patrones\Patrones-Bridge\Patrones-Bridge\bin\Debug\netcoreapp3.1\Patrones-Bridge.runtimeconfig.json
+E:\unity\quark\Patrones\Patrones-Bridge\Patrones-Bridge\bin\Debug\netcoreapp3.1\Patrones-Bridge.runtimeconfig.dev.json
+E:\unity\quark\Patrones\Patrones-Bridge\Patrones-Bridge\bin\Debug\netcoreapp3.1\Patrones-Bridge.dll
+E:\unity\quark\Patrones\Patrones-Bridge\Patrones-Bridge\bin\Debug\netcoreapp3.1\Patrones-Bridge.pdb
+E:\unity\quark\Patrones\Patrones-Bridge\Patrones-Bridge\obj\Debug\netcoreapp3.1\Patrones-Bridge.csproj.AssemblyReference.cache
+E:\unity\quark\Patrones\Patrones-Bridge\Patrones-Bridge\obj\Debug\netcoreapp3.1\Patrones-Bridge.GeneratedMSBuildEditorConfig.editorconfig
+E:\unity\quark\Patrones\Patrones-Bridge\Patrones-Bridge\obj\Debug\netcoreapp3.1\Patrones-Bridge.AssemblyInfoInputs.cache
+E:\unity\quark\Patrones\Patrones-Bridge\Patrones-Bridge\obj\Debug\netcoreapp3.1\Patrones-Bridge.AssemblyInfo.cs
+E:\unity\quark\Patrones\Patrones-Bridge\Patrones-Bridge\obj\Debug\netcoreapp3.1\Patrones-Bridge.csproj.CoreCompileInputs.cache
+E:\unity\quark\Patrones\Patrones-Bridge\Patrones-Bridge\obj\Debug\netcoreapp3.1\Patrones-Bridge.dll
+E:\unity\quark\Patrones\Patrones-Bridge\Patrones-Bridge\obj\Debug\netcoreapp3.1\Patrones-Bridge.pdb
+E:\unity\quark\Patrones\Patrones-Bridge\Patrones-Bridge\obj\Debug\netcoreapp3.1\Patrones-Bridge.genruntimeconfig.cache
